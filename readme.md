@@ -1,6 +1,7 @@
 SMS Spam Detection
 
-Author: SHADOW
+# Author: [SaqlainMushtaq](https://github.com/Salahuddin-Aayubi)
+
 
 Overview
 This project aims to build a Spam Detection System for SMS messages using Natural Language Processing (NLP) and Machine Learning. The model classifies SMS messages as Spam or Ham (Legitimate) using a Naïve Bayes classifier trained on the SMS Spam Collection Dataset.
