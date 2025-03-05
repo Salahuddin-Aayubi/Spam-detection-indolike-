@@ -1,4 +1,4 @@
-SMS Spam Detection
+### SMS Spam Detection
 
 # Author: [SaqlainMushtaq](https://github.com/Salahuddin-Aayubi)
 
